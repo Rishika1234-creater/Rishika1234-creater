@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**Rishika1234-creater/Rishika1234-creater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi 👋 I'm Rishika
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 CSE Student | Aspiring Software Developer  
+🚀 DSA Learner | Web Development Enthusiast  
+🔥 Building projects & improving daily  
+
+---
+
+## 👩‍💻 About Me
+
+Aspiring Software Developer 💻  
+DSA Learner | Backend Development Enthusiast | Exploring AI & Machine Learning 🤖  
+
+I enjoy solving problems, building projects, and improving my coding skills every day.  
+Currently focused on strengthening Data Structures & Algorithms and learning backend development using JavaScript, SQL, and MongoDB.  
+
+I am also exploring Artificial Intelligence and looking forward to integrating AI into my future projects 🚀  
+
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- Java / C++    
+
+---
+
+## 🚀 Projects
+- Clickable India Map   
+- Notes App  
+- Library Management System 
+- Random Quote Generator
+- My DSA Practice
+- GDGC members profile 
+
+---
+
+## 📫 Contact
+Email: rishikarohit1@gmail.com
