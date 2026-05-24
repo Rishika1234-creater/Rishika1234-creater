@@ -32,7 +32,8 @@ I am also exploring Artificial Intelligence and looking forward to integrating A
 - Library Management System 
 - Random Quote Generator
 - My DSA Practice
-- GDGC members profile 
+- GDGC members profile
+- mini social post app 
 
 ---
 
