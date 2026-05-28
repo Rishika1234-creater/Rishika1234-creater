@@ -1,41 +1,80 @@
+<h1 align="center">Hi,I'm Rishika</h1>
 
+<h3 align="center">
+💜 Aspiring Software Developer | 🚀 DSA Learner | 🌱 Growing Every Day
+</h3>
 
-## Hi 👋 I'm Rishika
-
-💻 CSE Student | Aspiring Software Developer  
-🚀 DSA Learner | Web Development Enthusiast  
-🔥 Building projects & improving daily  
-
----
-
-## 👩‍💻 About Me
-
-Aspiring Software Developer 💻  
-DSA Learner | Backend Development Enthusiast | Exploring AI & Machine Learning 🤖  
-
-I enjoy solving problems, building projects, and improving my coding skills every day.  
-Currently focused on strengthening Data Structures & Algorithms and learning backend development using JavaScript, SQL, and MongoDB.  
-
-I am also exploring Artificial Intelligence and looking forward to integrating AI into my future projects 🚀  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+💜;Aspiring+Software+Developer;DSA+Learner+🚀;Backend+Development+Enthusiast;Exploring+AI+%26+Machine+Learning" />
+</p>
 
 ---
 
-## 🛠️ Skills
-- HTML, CSS, JavaScript  
-- Java / C++    
+## 🌸 About Me
+
+```javascript
+const rishika = {
+    code: ["Java", "JavaScript",],
+    learning: ["DSA", "Backend", "AI"],
+    interests: ["Web Development", "Problem Solving"],
+    currentlyWorkingOn: "Improving coding skills daily 🚀",
+    funFact: "I love building projects and learning new tech "
+}
+```
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,mongodb,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishika1234-creater&show_icons=true&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishika1234-creater&theme=midnight-purple&hide_border=true" />
+</p>
 
 ---
 
 ## 🚀 Projects
-- Clickable India Map   
-- Notes App  
-- Library Management System 
-- Random Quote Generator
-- My DSA Practice
-- GDGC members profile
-- mini social post app 
+
+✨ Clickable India Map  
+✨ Notes App  
+✨ Library Management System
+✨ GDGC Member Profile
+✨ Random Quote Generator
+✨ My DSA Practice
+✨ Mini Social Post App
+
 
 ---
 
-## 📫 Contact
-Email: rishikarohit1@gmail.com
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- Artificial Intelligence Basics
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Rishika1234-creater">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,100:22D3EE&height=120&section=footer"/>
+</p>
