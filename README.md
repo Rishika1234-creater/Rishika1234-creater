@@ -1,11 +1,11 @@
-<h1 align="center">Hi,I'm Rishika</h1>
+<h1 align="center">Hi 👋, I'm Rishika</h1>
 
 <h3 align="center">
 💜 Aspiring Software Developer | 🚀 DSA Learner | 🌱 Growing Every Day
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+💜;Aspiring+Software+Developer;DSA+Learner+🚀;Backend+Development+Enthusiast;Exploring+AI+%26+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+💜;Aspiring+Software+Developer;DSA+Learner+🚀;Backend+Development+Enthusiast;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,11 +14,10 @@
 
 ```javascript
 const rishika = {
-    code: ["Java", "JavaScript",],
+    code: ["Java", "JavaScript", "C++"],
     learning: ["DSA", "Backend", "AI"],
     interests: ["Web Development", "Problem Solving"],
     currentlyWorkingOn: "Improving coding skills daily 🚀",
-    funFact: "I love building projects and learning new tech "
 }
 ```
 
@@ -46,22 +45,22 @@ const rishika = {
 
 ## 🚀 Projects
 
-✨ Clickable India Map  
-✨ Notes App  
-✨ Library Management System
-✨ GDGC Member Profile
-✨ Random Quote Generator
-✨ My DSA Practice
-✨ Mini Social Post App
-
+- ✨ Clickable India Map  
+- ✨ Notes App  
+- ✨ Library Management System  
+- ✨ GDGC Member Profile  
+- ✨ Random Quote Generator  
+- ✨ My DSA Practice  
+- ✨ Mini Social Post App  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- Backend Development
-- Artificial Intelligence Basics
+- Data Structures & Algorithms  
+- Backend Development  
+- MongoDB & SQL  
+- Artificial Intelligence Basics  
 
 ---
 
