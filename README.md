@@ -62,7 +62,7 @@ const rishika = {
 </p>
 
 <p align="center">
-✨ Currently at 102 contributions and growing every day 🚀
+✨ Currently at 107 contributions and growing every day 🚀
 </p>
 
 ---
@@ -75,7 +75,8 @@ const rishika = {
 - ✨ GDGC Member Profile  
 - ✨ Random Quote Generator  
 - ✨ My DSA Practice  
-- ✨ Mini Social Post App  
+- ✨ Mini Social Post App
+-  ✨Context Aware AI Assistant 
 
 ---
 
