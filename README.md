@@ -62,7 +62,7 @@ const rishika = {
 </p>
 
 <p align="center">
-✨ Currently at 115 contributions and growing every day 🚀
+✨ Currently at 127 contributions and growing every day 🚀
 </p>
 
 ---
